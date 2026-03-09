@@ -1,0 +1,7 @@
+{
+  "name": "Learn Deen ",
+  "description": "A beautiful, minimal, and spiritually elegant Islamic application featuring prayer times, Qibla compass, Quran, Tasbeeh, and Duas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
